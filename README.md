@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="200" src="./inc/logo.jpg">
+  <img width="200" height="100" src="./inc/logo.jpg">
 </p>
 
 # Sima-Face-Recognition
