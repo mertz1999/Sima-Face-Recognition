@@ -8,9 +8,10 @@ You can download pre-trained model(ResNet18) from [here](https://drive.google.co
 
 My goal is to train ResNet34 and get better Accuracy on the LFW dataset. After that, I want to make a transfer learning for the Iranian Face dataset(Sima Dataset).  
 
-
-<img src="./inc/120.jpg" style="height: 296px; width:500px;"/>
+<p align="center">
+<img src="./inc/120.jpg" style="height: 296px; width:500px; align:'center'"/>
 <img src="./inc/2.jpg" style="height: 296px; width:500px;"/>
+</p>
 
 ## Deployment
 
