@@ -14,11 +14,12 @@ My goal is to train ResNet34 and get better Accuracy on the LFW dataset. After t
 </p>
 
 
-
+<!--
 <p align="center">
 <img src="./inc/120.jpg" style="height: 296px; width:500px; align:'center'"/>
 <img src="./inc/2.jpg" style="height: 296px; width:500px;"/>
 </p>
+-->
 
 ## Deployment
 
