@@ -39,6 +39,7 @@ Explain Folders:
 ## TODO:
 - Train on ResNet34 Arch.
 - Transfer Learning on Sima Dataset for get better accuracy on sima dataset
+- Using DenseNet
 
 ## Authors
 
