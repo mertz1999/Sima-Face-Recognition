@@ -27,6 +27,9 @@ Explain Folders:
 - ***[LFW_Pairs](https://github.com/mertz1999/Sima-Face-Recognition/tree/main/LFW_Pairs)***: Making .npy list file for lfw pairs path
 
 
+## TODO:
+- Train on ResNet34 Arch.
+- Transfer Learning on Sima Dataset for get better accuracy on sima dataset
 
 ## Authors
 
